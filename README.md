@@ -1,2 +1,2 @@
 # pyRagAndAgent
-learn about LLM、Rag and agent
+learn about LLM RAG and agent
